@@ -9,15 +9,15 @@ This repository is designed for beginners and enthusiasts who want to understand
 ## 📚 Contents
 
 1. [AI vs ML vs DL](https://github.com/SHAHMACP/Machine-Learning-Basics-and-Terminologies/blob/main/AI%20vs%20ML%20vs%20DL.md)
-2. [Introduction to Machine Learning](#2-introduction-to-machine-learning)
-3. [Traditional Programming vs Machine Learning](#3-traditional-programming-vs-machine-learning)
-4. [Machine Learning Lifecycle](#4-machine-learning-lifecycle)
-5. [Types of Machine Learning](#5-types-of-machine-learning)
-6. [Supervised, Unsupervised, Semi-Supervised, and Reinforcement Learning](#6-supervised-unsupervised-semi-supervised-and-reinforcement-learning)
-7. [Supervised Learning: Regression vs Classification](#7-supervised-learning-regression-vs-classification)
-8. [Common Machine Learning Terminologies](#8-common-machine-learning-terminologies)
-9. [Model Performance Metrics](#9-model-performance-metrics)
-10. [Popular Machine Learning Algorithms](#10-popular-machine-learning-algorithms)
+2. [Introduction to Machine Learning]
+3. [Traditional Programming vs Machine Learning]
+4. [Machine Learning Lifecycle]
+5. [Types of Machine Learning]
+6. [Supervised, Unsupervised, Semi-Supervised, and Reinforcement Learning]
+7. [Supervised Learning: Regression vs Classification]
+8. [Common Machine Learning Terminologies]
+9. [Model Performance Metrics]
+10. [Popular Machine Learning Algorithms]
 
 ---
 
