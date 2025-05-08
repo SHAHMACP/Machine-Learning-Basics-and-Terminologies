@@ -133,7 +133,6 @@ To place an image next to each of the five concept sections in Markdown, you can
 
 ## The **main difference** between **Machine Learning (ML)** and **Deep Learning (DL)** lies in how they **process data** and **learn patterns**:
 
----
 
 ### 🧠 Core Difference:
 
