@@ -8,6 +8,8 @@ Understanding the difference between **Artificial Intelligence (AI)**, **Machine
 ---
 
 ## 🔍 Definitions
+![image](https://github.com/user-attachments/assets/cb181a88-a691-43d8-9b4a-ef07b2f239d6)
+
 
 ### 1. **Artificial Intelligence (AI)**
 
