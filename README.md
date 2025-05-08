@@ -8,7 +8,7 @@ This repository is designed for beginners and enthusiasts who want to understand
 
 ## 📚 Contents
 
-1. [AI vs ML vs DL](#1-ai-vs-ml-vs-dl)
+1. [AI vs ML vs DL](https://github.com/SHAHMACP/Machine-Learning-Basics-and-Terminologies/blob/main/AI%20vs%20ML%20vs%20DL.md)
 2. [Introduction to Machine Learning](#2-introduction-to-machine-learning)
 3. [Traditional Programming vs Machine Learning](#3-traditional-programming-vs-machine-learning)
 4. [Machine Learning Lifecycle](#4-machine-learning-lifecycle)
