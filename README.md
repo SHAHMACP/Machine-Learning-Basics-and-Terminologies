@@ -10,7 +10,7 @@ This repository is designed for beginners and enthusiasts who want to understand
 
 1. [AI vs ML vs DL](https://github.com/SHAHMACP/Machine-Learning-Basics-and-Terminologies/blob/main/AI%20vs%20ML%20vs%20DL.md)
 2. [Introduction to Machine Learning]
-3. [Traditional Programming vs Machine Learning]
+3. [Traditional Programming vs Machine Learning](https://github.com/SHAHMACP/Machine-Learning-Basics-and-Terminologies/blob/main/Classical%20Programming%20vs%20Machine%20Learning.md)
 4. [Machine Learning Lifecycle]
 5. [Types of Machine Learning]
 6. [Supervised, Unsupervised, Semi-Supervised, and Reinforcement Learning]
