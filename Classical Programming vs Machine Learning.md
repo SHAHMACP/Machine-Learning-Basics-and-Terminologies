@@ -1,6 +1,7 @@
 ## 🤖 Classical Programming vs Machine Learning
 
 This session illustrates the fundamental difference between **classical (rule-based) programming** and **machine learning** using simple diagrams and real-life examples.
+![image](https://github.com/user-attachments/assets/eb2e5b76-9bbf-41e6-803b-a8f2a5f18273)
 
 ---
 
