@@ -171,3 +171,7 @@ Think of ML as a skilled analyst who needs to be told what to look for (manual f
 
 
 ![image](https://github.com/user-attachments/assets/b9710039-7a78-4d7d-b51f-485223c1a7bc)
+
+- Machine learning is a field of study that gives computers the ability to learn from experience(training data) without being explicitly programmed. 
+- Machine learning algorithms can analyse large amounts of data faster than humans, especially for large datasets where it may not even be possible for humans to analyse the data and come out with rules.
+
