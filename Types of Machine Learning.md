@@ -11,33 +11,8 @@ Each type includes theoretical explanation, real-world examples, and Python code
 
 ---
 
-## 📁 Folder Structure
+![image](https://github.com/user-attachments/assets/74f6572f-6403-4514-a499-3fb63df316bf)
 
-```
-Types-of-Machine-Learning/
-│
-├── supervised_learning/
-│   ├── regression_example.ipynb            # House Price Prediction
-│   └── classification_example.ipynb        # Iris Flower Classification
-│
-├── unsupervised_learning/
-│   ├── clustering_example.ipynb            # Customer Segmentation with K-Means
-│   └── pca_example.ipynb                   # Dimensionality Reduction using PCA
-│
-├── semi_supervised_learning/
-│   └── label_propagation_example.ipynb     # Digit Recognition with Few Labels
-│
-├── reinforcement_learning/
-│   └── q_learning_gridworld.ipynb          # Agent Navigating a Grid World
-│
-├── datasets/
-│   └── (used datasets)
-│
-├── images/
-│   └── ml_types_diagram.png
-│
-└── README.md
-```
 
 ---
 
