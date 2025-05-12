@@ -112,4 +112,5 @@ Maximize cumulative reward by learning a strategy or policy.
 ## 🙌 Contributions Welcome
 
 Open an issue or pull request to add more examples, improve documentation, or suggest corrections.
+
 ---
