@@ -20,6 +20,8 @@ Each type includes theoretical explanation, real-world examples, and Python code
 
 **Definition:**
 The model learns from labeled data (features + target).
+![image](https://github.com/user-attachments/assets/bb86a0d6-0aa2-451e-8c3b-3061d4165d62)
+
 
 **📌 Real-World Examples:**
 
@@ -34,6 +36,8 @@ The model learns from labeled data (features + target).
 
 **Definition:**
 The model works on **unlabeled** data to discover patterns or groupings.
+
+![image](https://github.com/user-attachments/assets/e72e0872-6022-45b2-b9d9-fea5c4f3f276)
 
 **📌 Real-World Examples:**
 
