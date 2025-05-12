@@ -21,6 +21,7 @@ Each type includes theoretical explanation, real-world examples, and Python code
 **Definition:**
 The model learns from labeled data (features + target).
 ![image](https://github.com/user-attachments/assets/bb86a0d6-0aa2-451e-8c3b-3061d4165d62)
+![image](https://github.com/user-attachments/assets/0c6e5233-bfe7-4474-8463-15d893f54487)
 
 
 **📌 Real-World Examples:**
@@ -38,6 +39,7 @@ The model learns from labeled data (features + target).
 The model works on **unlabeled** data to discover patterns or groupings.
 
 ![image](https://github.com/user-attachments/assets/e72e0872-6022-45b2-b9d9-fea5c4f3f276)
+![image](https://github.com/user-attachments/assets/4d38807e-78a7-4d20-a05c-98683027af27)
 
 **📌 Real-World Examples:**
 
@@ -53,13 +55,17 @@ The model works on **unlabeled** data to discover patterns or groupings.
 ## 3️⃣ Semi-Supervised Learning
 
 **Definition:**
-Uses a small set of labeled data along with a large set of unlabeled data.
+Uses a small set of labeled data along with a large set of unlabeled data to improve learning.
+Improve learning accuracy with minimal labelled data.
+
+![image](https://github.com/user-attachments/assets/b9a3dcbe-9e2f-4cf5-9302-a36858b51600)
 
 **📌 Real-World Examples:**
 
 * Image classification with few annotated images
 * Webpage classification with partial tags
-
+* Natural Language Processing (NLP)
+* Medical diagnostics
 
 
 ---
@@ -68,11 +74,18 @@ Uses a small set of labeled data along with a large set of unlabeled data.
 
 **Definition:**
 An agent learns to make decisions by interacting with an environment and receiving rewards.
+The model learns by interacting with an environment (by trial and error) and receiving feedback in the form of rewards or penalties.
+Maximize cumulative reward by learning a strategy or policy.
+
+![image](https://github.com/user-attachments/assets/3591e353-b4f4-4a9f-b113-4c5a9ade0102)
+
+
 
 **📌 Real-World Examples:**
 
 * Game-playing AI (Chess, Go, Atari games)
 * Self-driving cars and robotics
+* Training robots to perform a task
 
 
 
