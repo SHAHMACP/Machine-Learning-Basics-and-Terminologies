@@ -26,10 +26,7 @@ The model learns from labeled data (features + target).
 * Spam email detection (Spam or Not)
 * House price prediction based on size, location, etc.
 
-**🧪 Included Notebook Examples:**
 
-* `regression_example.ipynb`: Predicting house prices using Linear Regression on the Boston Housing dataset.
-* `classification_example.ipynb`: Classifying Iris flowers using K-Nearest Neighbors (KNN).
 
 ---
 
@@ -43,10 +40,9 @@ The model works on **unlabeled** data to discover patterns or groupings.
 * Market segmentation of customers
 * Social network analysis
 
-**🧪 Included Notebook Examples:**
 
-* `clustering_example.ipynb`: Using K-Means to segment customers based on annual income and spending score.
-* `pca_example.ipynb`: Applying PCA for visualizing high-dimensional handwritten digits data.
+
+
 
 ---
 
@@ -60,9 +56,7 @@ Uses a small set of labeled data along with a large set of unlabeled data.
 * Image classification with few annotated images
 * Webpage classification with partial tags
 
-**🧪 Included Notebook Example:**
 
-* `label_propagation_example.ipynb`: Using Scikit-learn’s `LabelPropagation` to classify MNIST digits with limited labeled samples.
 
 ---
 
@@ -76,9 +70,7 @@ An agent learns to make decisions by interacting with an environment and receivi
 * Game-playing AI (Chess, Go, Atari games)
 * Self-driving cars and robotics
 
-**🧪 Included Notebook Example:**
 
-* `q_learning_gridworld.ipynb`: Agent learns the optimal path in a 5x5 grid world using Q-Learning.
 
 ---
 
