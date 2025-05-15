@@ -29,6 +29,42 @@ The model learns from labeled data (features + target).
 * Spam email detection (Spam or Not)
 * House price prediction based on size, location, etc.
 
+Here is a clean and informative `README.md` content for a GitHub repository titled **“Classification vs Regression in Supervised Learning”**, based on the image you shared:
+
+
+
+### 🤖 Classification vs Regression in Supervised Learning
+
+This repository provides a clear comparison between the two primary types of **Supervised Learning**:
+
+* 🔵 **Classification** – for predicting **discrete** labels
+* 🟠 **Regression** – for predicting **continuous** values
+
+Includes visualizations, code notebooks, and real-world examples.
+
+
+
+#### 📘 Classification
+
+* **Goal**: Classify input data into categories (predict discrete responses).
+* **Examples**:
+
+  * Email spam detection: spam or not
+  * Medical diagnosis: cancerous or benign tumor
+* **Output**: Classes or categories
+* **Algorithms**: Logistic Regression, Decision Trees, Random Forest, SVM
+
+
+#### 📙 Regression
+
+* **Goal**: Predict continuous values based on input features.
+* **Examples**:
+
+  * Predicting temperature
+  * Estimating the time until equipment failure
+* **Output**: Numeric/continuous values
+* **Algorithms**: Linear Regression, Lasso, Ridge, SVR
+
 
 
 ---
