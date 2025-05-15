@@ -47,6 +47,9 @@ Includes visualizations, code notebooks, and real-world examples.
 #### 📘 Classification
 
 * **Goal**: Classify input data into categories (predict discrete responses).
+  
+  ![image](https://github.com/user-attachments/assets/13510cfc-f1ae-4eaf-a39d-3b799efd42db)
+
 * **Examples**:
 
   * Email spam detection: spam or not
@@ -58,6 +61,9 @@ Includes visualizations, code notebooks, and real-world examples.
 #### 📙 Regression
 
 * **Goal**: Predict continuous values based on input features.
+  
+  ![image](https://github.com/user-attachments/assets/81049564-9405-407e-ba93-61d3e2b6d41a)
+
 * **Examples**:
 
   * Predicting temperature
