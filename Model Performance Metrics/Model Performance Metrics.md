@@ -6,6 +6,13 @@
 ---
 
 ### 🔶 **Classification Metrics**
+#### 📊 Confusion Matrix
+A confusion matrix is a table that is used to evaluate the performance of a classification algorithm. It compares the predicted class labels with the actual class labels.
+|                     | Predicted Positive  | Predicted Negative  |
+| ------------------- | ------------------- | ------------------- |
+| **Actual Positive** | True Positive (TP)  | False Negative (FN) |
+| **Actual Negative** | False Positive (FP) | True Negative (TN)  |
+
 
 1. ### ✅ **Accuracy**
 
