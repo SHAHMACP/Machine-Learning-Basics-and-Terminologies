@@ -13,6 +13,7 @@ A confusion matrix is a table that is used to evaluate the performance of a clas
 | **Actual Positive** | True Positive (TP)  | False Negative (FN) |
 | **Actual Negative** | False Positive (FP) | True Negative (TN)  |
 
+![image](https://github.com/user-attachments/assets/2504c3ed-ee81-4e19-b52f-bd39a84c96e7)
 
 1. ### ✅ **Accuracy**
 
