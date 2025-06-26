@@ -20,6 +20,8 @@ Cross-validation is a **resampling technique** used to evaluate machine learning
 ### 1. **Hold-Out Validation**
 - Splits the dataset into a training set and a testing set (e.g., 80/20).
 - Simple and fast, but performance depends on the data split.
+![image](https://github.com/user-attachments/assets/d07b2ac1-2e0f-468f-a34c-e49d5b8f59a0)
+
 
 ### 2. **K-Fold Cross Validation**
 - Divides the dataset into *k* equal parts.
@@ -27,19 +29,24 @@ Cross-validation is a **resampling technique** used to evaluate machine learning
 - This is repeated *k* times and results are averaged.
 
 > 🔢 Common choice: `k = 5 or 10`
+![image](https://github.com/user-attachments/assets/792e799d-b590-4644-97d8-c2f8613cdc28)
 
 ### 3. **Stratified K-Fold Cross Validation**
 - Similar to K-Fold, but maintains the class distribution in each fold.
 - Useful in **imbalanced classification** problems.
+![image](https://github.com/user-attachments/assets/a52ed7a5-4ce2-40d3-abd9-66a5084992e9)
 
 ### 4. **Leave-One-Out Cross Validation (LOOCV)**
 - Uses `n-1` samples for training and 1 sample for testing.
 - Repeats for all `n` samples.
 - Very accurate but computationally expensive.
+  ![image](https://github.com/user-attachments/assets/31f518bf-625f-41fc-815c-da0a1f67cfcf)
+
 
 ### 5. **Group K-Fold Cross Validation**
 - Used when samples are grouped and should not be split across folds (e.g., patient data).
 - Ensures that the same group does not appear in both train and test sets.
+![image](https://github.com/user-attachments/assets/32f3b82c-d393-457c-a11f-28a6c6db268f)
 
 ### 6. **Time Series Cross Validation (Forward Chaining)**
 - Used for **time-dependent data**.
