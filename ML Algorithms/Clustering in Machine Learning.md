@@ -33,6 +33,9 @@ Clustering is the task of **grouping a set of objects** in such a way that objec
 | **Density-based**      | Groups based on dense regions               | DBSCAN, OPTICS                      |
 | **Model-based**        | Uses probabilistic models                   | Gaussian Mixture Models (GMM)       |
 
+
+![image](https://github.com/user-attachments/assets/734fcf6d-2e33-43ff-917a-1d4f93d7bff3)
+
 ---
 
 ## K-Means Clustering
