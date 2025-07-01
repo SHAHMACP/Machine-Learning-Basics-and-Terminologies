@@ -64,6 +64,7 @@ kmeans = KMeans(n_clusters=3, random_state=0)
 kmeans.fit(X)
 labels = kmeans.labels_
 ````
+![image](https://github.com/user-attachments/assets/aa3a4661-d2a5-4a73-aaf3-ee2713171983)
 
 ---
 
