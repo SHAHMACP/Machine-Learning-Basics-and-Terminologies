@@ -9,6 +9,7 @@ Clustering is a powerful **unsupervised machine learning** technique used to dis
 Clustering is the task of **grouping a set of objects** in such a way that objects in the same group (**cluster**) are **more similar** to each other than to those in other groups.
 
 > Clustering = Finding structure in unlabelled data
+![image](https://github.com/user-attachments/assets/cf505b00-f397-434e-aacc-8f16ea219349)
 
 ---
 
@@ -39,12 +40,24 @@ Clustering is the task of **grouping a set of objects** in such a way that objec
 ---
 
 ## K-Means Clustering
+K-Means Clustering is an unsupervised learning algorithm that groups similar data points into K clusters. 
+It’s centroid-based, meaning each cluster is represented by the mean position (center) of the data points within it.
+To partition the data into K distinct clusters so that:
+Points within a cluster are as similar as possible.
+Points in different clusters are as different as possible.
 
-### Idea
-- Assign K initial centroids randomly.
-- Assign each point to the nearest centroid.
-- Recalculate centroids based on current clusters.
-- Repeat until convergence.
+
+### How k means works??
+- Choose K (number of clusters)
+- Randomly initialize K centroids
+- Assign each data point to the nearest centroid (using distance measure, usually Euclidean)
+- Update centroids by calculating the mean position of all points assigned to that cluster
+- Repeat steps 3 and 4 until:
+            Centroids don’t change significantly
+            OR a max number of iterations is reached
+
+![image](https://github.com/user-attachments/assets/390fd29c-e742-4dc0-af06-7c4aaf3ca7a8)
+
 
 ### Parameters
 - `n_clusters`: Number of clusters (K)
