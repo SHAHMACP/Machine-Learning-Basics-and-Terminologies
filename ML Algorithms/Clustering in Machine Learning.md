@@ -56,7 +56,7 @@ Points in different clusters are as different as possible.
             Centroids don’t change significantly
             OR a max number of iterations is reached
 
-![image](https://github.com/user-attachments/assets/390fd29c-e742-4dc0-af06-7c4aaf3ca7a8)
+![image](https://github.com/user-attachments/assets/aa3a4661-d2a5-4a73-aaf3-ee2713171983)
 
 
 ### Parameters
@@ -77,7 +77,7 @@ kmeans = KMeans(n_clusters=3, random_state=0)
 kmeans.fit(X)
 labels = kmeans.labels_
 ````
-![image](https://github.com/user-attachments/assets/aa3a4661-d2a5-4a73-aaf3-ee2713171983)
+
 
 ---
 
