@@ -9,7 +9,6 @@ Clustering is a powerful **unsupervised machine learning** technique used to dis
 Clustering is the task of **grouping a set of objects** in such a way that objects in the same group (**cluster**) are **more similar** to each other than to those in other groups.
 
 > Clustering = Finding structure in unlabelled data
-![image](https://github.com/user-attachments/assets/cf505b00-f397-434e-aacc-8f16ea219349)
 
 ---
 
@@ -57,6 +56,11 @@ Points in different clusters are as different as possible.
             OR a max number of iterations is reached
 
 ![image](https://github.com/user-attachments/assets/aa3a4661-d2a5-4a73-aaf3-ee2713171983)
+
+### Loss function (Inertia)
+![image](https://github.com/user-attachments/assets/1e5eda9d-5978-4159-8e5f-3b6c01fa9e26)
+
+
 
 
 ### Parameters
