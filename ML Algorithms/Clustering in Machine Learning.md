@@ -60,7 +60,10 @@ Points in different clusters are as different as possible.
 ### Loss function (Inertia)
 ![image](https://github.com/user-attachments/assets/1e5eda9d-5978-4159-8e5f-3b6c01fa9e26)
 
-
+### Dunn Index
+Dunn index is the ratio of the minimum of inter-cluster distances and maximum of intracluster distances. 
+The more the value of the Dunn index, the better the clusters will be.
+![image](https://github.com/user-attachments/assets/c25f5868-6cd0-446a-beec-5ba8242e142d)
 
 
 ### Parameters
@@ -81,6 +84,12 @@ kmeans = KMeans(n_clusters=3, random_state=0)
 kmeans.fit(X)
 labels = kmeans.labels_
 ````
+
+### Elbow Method for Optimal Cluster Number in K-Means!
+The elbow method is a graphical representation of finding the optimal ‘K’ in a K-means clustering.
+When we analyze the graph, we can see that the graph will rapidly change at a point and thus creating an elbow shape. From this point, the graph moves almost parallel to the X-axis. The K value corresponding to this point is the optimal value of K or an optimal number of clusters.
+![image](https://github.com/user-attachments/assets/799c1b7a-48ba-4563-a5a2-d959976871b3)
+
 
 
 ---
@@ -148,6 +157,13 @@ labels = db.fit_predict(X)
 | **Silhouette Score** | Measures separation distance between clusters            |
 | **Davies-Bouldin**   | Lower is better — how similar clusters are to each other |
 | **Inertia**          | Only for K-Means — total within-cluster distance         |
+
+#### Silhouette Score
+ 
+The silhouette score measures the similarity of each point to its own cluster compared to other clusters, and the silhouette plot visualizes these scores for each sample. 
+A high silhouette score indicates that the clusters are well separated, and each sample is more similar to the samples in its own cluster than to samples in other clusters. 
+A silhouette score close to 0 suggests overlapping clusters, and a negative score suggests poor clustering solutions.
+
 
 ```python
 from sklearn.metrics import silhouette_score
