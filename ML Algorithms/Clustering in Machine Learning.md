@@ -95,17 +95,25 @@ When we analyze the graph, we can see that the graph will rapidly change at a po
 ---
 
 ## Hierarchical Clustering
+Hierarchical Clustering is an unsupervised machine learning algorithm that builds a hierarchy of clusters in a tree-like structure.
+![image](https://github.com/user-attachments/assets/3d63b955-40a4-4040-96d6-f7a755ee3a2a)
+![image](https://github.com/user-attachments/assets/f15d6e17-fe05-4ce6-983f-22173adf20f2)
+
 
 ### Idea
 
 * **Agglomerative**: Bottom-up merging of closest clusters
 * **Divisive**: Top-down splitting of large clusters
 * Represented using a **dendrogram**
+A dendrogram is like a family tree for clusters. It shows how individual data points or groups of data merge together.
+![image](https://github.com/user-attachments/assets/0d73c23b-9ca3-4a49-9f78-de0c57e38e00)
+
 
 ### Parameters
 
 * `linkage`: 'ward', 'single', 'complete', 'average'
 * `affinity`: Distance metric (`euclidean`, `manhattan`)
+![image](https://github.com/user-attachments/assets/a3f77b15-c862-4ee9-ad5e-e9d9e767f5b1)
 
 ### Limitations
 
