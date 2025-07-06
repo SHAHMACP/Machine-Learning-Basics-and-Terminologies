@@ -132,16 +132,31 @@ labels = agg.fit_predict(X)
 
 ## DBSCAN (Density-Based Spatial Clustering)
 
-### Idea
-
-* Groups **dense regions** of points
+* 'Density-Based Spatial Clustering of Applications with Noise'.
+* DBSCAN is a powerful density-based clustering algorithm that groups together points that are close in space and marks as outliers the points that lie alone in low-density regions.
+* It identifies clusters as dense regions in the data space separated by areas of lower density.
+* Clusters can take any shape not just circular or convex.
 * Identifies noise/outliers
-* No need to specify number of clusters
+* No need to specify the number of clusters
 
 ### Parameters
 
-* `eps`: Radius of neighborhood
-* `min_samples`: Minimum points to form dense region
+* ε (epsilon) : Radius of neighborhood around a point
+* minPts : Minimum number of points required to form a dense region
+* Core Point : Has ≥ minPts points within ε
+* Border Point :	Not a core point, but is within ε of a core point
+* Noise Point : Neither core nor border (an outlier)
+  ![image](https://github.com/user-attachments/assets/70538c45-c719-49ee-96b2-5e101ecb4206)
+
+### How DBSCAN Works!
+* For each point Count how many other points fall within its ε-radius.
+* If count ≥ minPts → mark as a core point.
+* Form a cluster from each core point and all reachable points.
+* Border points are attached to their nearby core clusters.
+* Noise points are ignored or marked as -1 (outliers).
+![image](https://github.com/user-attachments/assets/e992ce08-3adc-4178-af82-b691f21851a0)
+
+
 
 ### Limitations
 
@@ -198,6 +213,10 @@ X = df[["Annual Income (k$)", "Spending Score (1-100)"]]
 | Nested/group structure       | Hierarchical         |
 | Arbitrary shapes or outliers | DBSCAN               |
 | High dimensionality          | GMM or PCA + K-Means |
+
+We prefer to use DBSCAN when the data is not spherical in shape or the number of classes is not known beforehand. K-Means on the other hand is better suited for data with well-defined, spherical clusters and is less effective with noise or complex cluster structures.
+![image](https://github.com/user-attachments/assets/67aa2084-eb9a-4cd1-b2fa-1a73bab21270)
+
 
 ---
 
