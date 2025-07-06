@@ -156,8 +156,6 @@ labels = agg.fit_predict(X)
 * Noise points are ignored or marked as -1 (outliers).
 ![image](https://github.com/user-attachments/assets/e992ce08-3adc-4178-af82-b691f21851a0)
 
-
-
 ### Limitations
 
 * Sensitive to eps value
