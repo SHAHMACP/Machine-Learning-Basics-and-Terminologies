@@ -154,7 +154,7 @@ labels = agg.fit_predict(X)
 * Form a cluster from each core point and all reachable points.
 * Border points are attached to their nearby core clusters.
 * Noise points are ignored or marked as -1 (outliers).
-![image](https://github.com/user-attachments/assets/e992ce08-3adc-4178-af82-b691f21851a0)
+![1_WunYbbKjzdXvw73a4Hd2ig](https://github.com/user-attachments/assets/46779132-d2dd-4098-820b-f2d152f3a2a7)
 
 ### Limitations
 
