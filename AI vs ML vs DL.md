@@ -16,9 +16,8 @@ These technologies are nested like concentric circles:
 * **DL (Deep Learning)**: A subset of ML using neural networks with multiple layers.
 * **Gen AI (Generative AI)**: A subset of DL that can generate new content (text, image, audio, etc.).
 
+<img width="1024" height="768" alt="Values Driven Organizations Venn Diagram (11)" src="https://github.com/user-attachments/assets/fd973254-0225-4081-828e-5b3e4fd1aef8" />
 
-
-<img src="https://github.com/user-attachments/assets/68e97cfd-e885-4b16-b5d5-b80ebf63398c" />
 
 ---
 
@@ -26,23 +25,6 @@ These technologies are nested like concentric circles:
 To place an image next to each of the five concept sections in Markdown, you can use an HTML table layout for side-by-side formatting (since Markdown itself doesn’t support side-by-side layout well).
 
 
-
-### 📈 Data Analytics
-
-<table>
-<tr>
-<td width="20%">
-
-* **Focus**: Analyzing structured data for trends and insights.
-* **Tools**: Excel, SQL, Tableau, Power BI
-* **Output**: Dashboards, reports, summaries
-
-</td>
-<td>
-  <img src="https://github.com/user-attachments/assets/dc976f3f-5b07-4a8c-8d08-7376a7a45aa9" width="550"/>
-</td>
-</tr>
-</table>
 
 
 
@@ -57,7 +39,7 @@ To place an image next to each of the five concept sections in Markdown, you can
 
 </td>
 <td>
-  <img src="https://github.com/user-attachments/assets/292790ca-64d2-4d93-89db-1c57e570f56e" width="550"/>
+  <img width="1024" height="768" alt="Values Driven Organizations Venn Diagram (8)" src="https://github.com/user-attachments/assets/799946c2-0aef-4bb1-a8b6-60207339eccc" />
 </td>
 </tr>
 </table>
@@ -75,7 +57,8 @@ To place an image next to each of the five concept sections in Markdown, you can
 
 </td>
 <td>
-  <img src="https://github.com/user-attachments/assets/0d372e25-1d93-47a6-8aab-2db07cb9a914" width="550"/>
+  <img width="1024" height="768" alt="Values Driven Organizations Venn Diagram (10)" src="https://github.com/user-attachments/assets/37523c31-840a-4bbd-b8e9-ccb263f176ce" />
+
 </td>
 </tr>
 </table>
@@ -93,7 +76,7 @@ To place an image next to each of the five concept sections in Markdown, you can
 
 </td>
 <td>
-  <img src="https://github.com/user-attachments/assets/ac5c29db-6307-47e4-8aa6-6e6c0b6afc43" width="550"/>
+  <img width="1024" height="768" alt="Values Driven Organizations Venn Diagram (6)" src="https://github.com/user-attachments/assets/ef01e5d1-27e3-49e7-add1-221e2084870f" />
 </td>
 </tr>
 </table>
@@ -110,7 +93,26 @@ To place an image next to each of the five concept sections in Markdown, you can
 
 </td>
 <td>
-  <img src="https://github.com/user-attachments/assets/22b90ed7-fcfc-434a-85e4-e38b2731e2dd" width="550"/>
+  <img width="1024" height="768" alt="Values Driven Organizations Venn Diagram (5)" src="https://github.com/user-attachments/assets/2edfb59f-dd6b-40c9-a340-dbd3402ef17c" />
+
+</td>
+</tr>
+</table>
+
+### 📈 Data Analytics
+
+<table>
+<tr>
+<td width="20%">
+
+* **Focus**: Analyzing structured data for trends and insights.
+* **Tools**: Excel, SQL, Tableau, Power BI
+* **Output**: Dashboards, reports, summaries
+
+</td>
+<td>
+  <img width="1024" height="768" alt="Values Driven Organizations Venn Diagram (9)" src="https://github.com/user-attachments/assets/f62a172b-81e9-42b6-9e53-06605efb5547" />
+
 </td>
 </tr>
 </table>
