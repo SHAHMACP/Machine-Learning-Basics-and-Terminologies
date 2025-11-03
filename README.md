@@ -20,7 +20,7 @@ This repository is designed for beginners and enthusiasts who want to understand
 
 ## 1. AI vs ML vs DL
 Data Analytics
-![image](https://github.com/user-attachments/assets/839210b7-702e-4706-a074-9531837a093e)
+<img width="1024" height="768" alt="Values Driven Organizations Venn Diagram (11)" src="https://github.com/user-attachments/assets/fd973254-0225-4081-828e-5b3e4fd1aef8" />
 
 
 * **Artificial Intelligence (AI)**: A broad field aiming to create machines that can simulate human intelligence.
